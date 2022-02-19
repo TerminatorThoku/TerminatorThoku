@@ -1,6 +1,6 @@
 TerminatorThoku@github
 -------------------------
-OS: Arch Linux / Win 11
+OS: Arch Linux / Win 11 
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Pakistan/Karachi
